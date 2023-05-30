@@ -11,7 +11,7 @@ git clone https://github.com/euperez20/eunice_perez_site.git
 
 
 3. Build the Docker image:
-cd eunice_perez_a2
+cd eunice_perez_site
 docker build -t eunice_perez_coding_assignment11 .
 
 
