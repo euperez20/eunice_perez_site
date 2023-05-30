@@ -7,7 +7,7 @@ This Docker container provides a development environment for the Codin 1 website
 1. Install Docker: Follow the instructions specific to your operating system from the Docker website (https://www.docker.com/products/docker-desktop).
 
 2. Clone the repository:
-git clone https://github.com/euperez20/eunice_perez_a2.git
+git clone https://github.com/euperez20/eunice_perez_site.git
 
 
 3. Build the Docker image:
